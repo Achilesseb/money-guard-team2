@@ -11,7 +11,7 @@ function HomePage() {
       <p>Welcome to the Home Page!</p>
     </div>
   ) : (
-    <Navigate to="/redirect" replace />
+    <Navigate to="/register" replace />
   );
 }
 
