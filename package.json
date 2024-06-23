@@ -5,7 +5,7 @@
   "homepage": "https://achilesseb.github.io/money-guard-team2",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/index.html --public-url /money-guard-team2"
+    "build": "parcel build src/index.html --public-url ./"
   },
   "repository": {
     "type": "git",
