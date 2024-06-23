@@ -2,14 +2,14 @@
   "name": "money-guard-team-2",
   "version": "2.0.0",
   "description": "Цей проект створено за допомогою Parcel. Для ознайомлення та налаштування \r додаткових можливостей, [зверніться до документації](https://parceljs.org/).",
-  "homepage": "https://ramocoblisan.github.io/money-guard-team-2",
+  "homepage": "https://achilesseb.github.io/money-guard-team2",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/index.html --public-url /money-guard-team-2/"
+    "build": "parcel build src/index.html --public-url /money-guard-team2/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramocoblisan/money-guard-team-2.git"
+    "url": "git+https://github.com/Achilesseb/money-guard-team2"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
